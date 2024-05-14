@@ -44,6 +44,7 @@ export function FeedItem({data, currentVisibleItem}: any) {
           width: '100%',
           height: screenHeight
         }}
+        
         shouldPlay={false}
         isMuted={false}
         isLooping

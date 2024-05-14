@@ -1,9 +1,9 @@
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs'
 import Home from '../screens/home/Home';
 import Inbox from '../screens/inbox';
-import Search from '../screens/search';
+import Search from '../screens/search-video';
 import Profile from '../screens/profile';
-import New from '../screens/new';
+import New from '../screens/new-profile';
 import {Ionicons} from '@expo/vector-icons';
 import ButtomNew from '../components/ButtonNew';
 
